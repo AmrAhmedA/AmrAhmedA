@@ -1,5 +1,5 @@
 ### Hi there I'm Amr 
-I'm a Front-end developer & Graphic designer based in Egypt, I take design as hobby, coding as craft. 
+I'm a Front-end developer based in Egypt, I take coding as craft. 
 
 ## Let's talk 
 
