@@ -1,4 +1,4 @@
-### Hi there I'm Amr
+### Hi there I'm Amr <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 I'm a Frontend Engineer based in Egypt, I take coding as craft.   
 
 [![AmrAhmed Stackoverflow](https://github-readme-stackoverflow.vercel.app/?userID=8792439&layout=compact&theme=dark)](https://stackoverflow.com/users/8792439/amr)
@@ -6,6 +6,4 @@ I'm a Frontend Engineer based in Egypt, I take coding as craft.
 <img width="70px" src="https://raw.githubusercontent.com/omidnikrah/github-readme-stackoverflow/master/stackoverflow.svg" />
 </a>
 
-
-<h2 align="center"> <a href="https://www.AmrAhmedA.com"> <img width="32px" src="https://amrahmeda.com/_next/static/media/Asset8.10f66cbc.svg" alt="AmrAhmedA" /> </a></h2>
-
+<h2 align="center"> <a href="https://www.AmrAhmedA.com"> <img width="48px" src="https://amrahmeda.com/_next/static/media/Asset8.10f66cbc.svg" alt="AmrAhmedA" /> </a></h2>
