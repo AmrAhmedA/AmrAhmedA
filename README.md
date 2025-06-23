@@ -1,5 +1,5 @@
 ### Hi there I'm Amr <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-I'm a Frontend Software Engineer from Egypt, I take coding as craft.   
+I'm a Frontend Software Engineer from Egypt (The Great Pyramids of Giza), I take coding as craft.   
 
 [![AmrAhmed Stackoverflow](https://github-readme-stackoverflow.vercel.app/?userID=8792439&layout=compact&theme=dark)](https://stackoverflow.com/users/8792439/amr)
 <a href="https://stackoverflow.com/users/8792439/amr">
